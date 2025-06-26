@@ -62,7 +62,7 @@
 
 ## 📈 GitHub Stats
 
-![Roopesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roopeshkhanna&show_icons=true&theme=tokyonight)  
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roopeshkhanna&layout=compact&theme=tokyonight)
 
 ---
